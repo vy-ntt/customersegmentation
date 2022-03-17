@@ -14,7 +14,7 @@ import pickle
 import streamlit as st
 
 # 1. Read data
-data = pd.read_csv("OnlineRetail.csv", encoding='latin-1')
+data = pd.read_csv("OnlineRetail.zip", encoding='latin-1')
 
 #--------------
 # GUI
